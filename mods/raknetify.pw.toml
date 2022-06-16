@@ -1,0 +1,13 @@
+name = "Raknetify (Fabric)"
+filename = "raknetify-fabric-0.1.0+alpha.3.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/0.1.0+alpha.3.0/raknetify-fabric-0.1.0%2Balpha.3.0-all.jar"
+hash-format = "sha1"
+hash = "6719c1d21756f9bb2ec6d54aabafd848086c33f6"
+
+[update]
+[update.modrinth]
+mod-id = "5IovSY3u"
+version = "hUkxoG1I"
