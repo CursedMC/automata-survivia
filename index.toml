@@ -245,11 +245,6 @@ hash = "be990540e372ab89173f94e85a0753b68c97dfbbbf0a66191c1e467114e15155"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "1f5e26f7b0333ecee585b9ab7a239c43cd6e9638750ce51fe312806cc51a07b6"
-metafile = true
-
-[[files]]
 file = "mods/this-rocks.pw.toml"
 hash = "ba4c85d3c6da8cd0ea27bae046c59a39009b1c703af0a9ace73cf9a4164b2dfe"
 metafile = true
