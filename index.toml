@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
@@ -233,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/terrarian-slimes.pw.toml"
 hash = "be990540e372ab89173f94e85a0753b68c97dfbbbf0a66191c1e467114e15155"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "1f5e26f7b0333ecee585b9ab7a239c43cd6e9638750ce51fe312806cc51a07b6"
 metafile = true
 
 [[files]]
