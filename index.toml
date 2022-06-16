@@ -75,6 +75,11 @@ hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
 
 [[files]]
+file = "mods/ecotones+blankiecon.pw.toml"
+hash = "5aa2801bade170e0761c496faf1e255436ecc75e87b0d8f0fbfdf88f27da935c"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trinket-fabric.pw.toml"
 hash = "193afa0b2357a94bef4483204eb18f61561e6f6976aadf4737d522517b7c0bc6"
 metafile = true
