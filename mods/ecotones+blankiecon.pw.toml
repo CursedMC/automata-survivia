@@ -1,0 +1,8 @@
+name = "Ecotones: Blanketcon Edition"
+filename = "ecotones-0.9.blankiecon"
+side = "both"
+
+[download]
+url = "https://github.com/CursedMC/ecotones-hosting-solutions/raw/main/ecotones-0.9.blankiecon.jar"
+hash-format = "sha256"
+hash = "a1b35842d11aa9a4336957051d493261c4baa0a2ffc8090d91873fd4b6567814"
