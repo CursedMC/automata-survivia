@@ -1,13 +1,8 @@
 name = "PAUCAL"
-filename = "paucal-fabric-1.18.2-0.4.7.jar"
+filename = "paucal-fabric-1.19.2-0.5.0-pre-66.jar"
 side = "both"
 
 [download]
+url = "https://maven.blamejared.com/at/petra-k/paucal/paucal-fabric-1.19.2/0.5.0-pre-66/paucal-fabric-1.19.2-0.5.0-pre-66.jar"
 hash-format = "sha1"
-hash = "839e6633d18a0c419153b67b909befb51b40c8cf"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3831429
-project-id = 597824
+hash = "9c301ed1a624be6602d81e4fbcf6d6b3261ab581"

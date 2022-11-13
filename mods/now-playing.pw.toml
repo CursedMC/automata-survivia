@@ -1,13 +1,13 @@
 name = "Now Playing"
-filename = "now-playing-fabric-1.4.0.jar"
+filename = "now-playing-fabric-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2e6b0ecceecd01fd3a8c4d8f6576660aab0d6fc0"
+hash = "1114ce90d74f6760b52ea0c0d54cdf6ed5f399d3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3769771
+file-id = 3949861
 project-id = 398652

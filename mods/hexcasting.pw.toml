@@ -1,13 +1,8 @@
 name = "Hex Casting"
-filename = "hexcasting-fabric-1.18.2-0.9.0.jar"
+filename = "hexcasting-fabric-1.19.2-1.0-pre-461.jar"
 side = "both"
 
 [download]
+url = "https://maven.blamejared.com/at/petra-k/hexcasting/hexcasting-fabric-1.19.2/1.0-pre-461/hexcasting-fabric-1.19.2-1.0-pre-461.jar"
 hash-format = "sha1"
-hash = "f55bcc92f2e9dae00cae724f66dab7764bc386fb"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3830038
-project-id = 569849
+hash = "2d31d9231a20d87a4dd51e2d52627a122fde4e9c"

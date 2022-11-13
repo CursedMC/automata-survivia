@@ -1,13 +1,13 @@
 name = "Terrarian Slimes"
-filename = "terrarian-slimes-1.2-BETA+1.18.jar"
+filename = "terrarian-slimes-1.3.1-BETA+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xcMPrAQe/versions/1.2-BETA+1.18/terrarian-slimes-1.2-BETA%2B1.18.jar"
+url = "https://cdn.modrinth.com/data/xcMPrAQe/versions/B7l3NsDJ/terrarian-slimes-1.3.1-BETA%2B1.19.jar"
 hash-format = "sha1"
-hash = "acd1ae5f732d5282e9c35eef0aaf2008cebbc01b"
+hash = "03526ddfddecf0ca4dcdbeb8aed009d1cfd635b6"
 
 [update]
 [update.modrinth]
 mod-id = "xcMPrAQe"
-version = "qtK2L1NG"
+version = "B7l3NsDJ"
