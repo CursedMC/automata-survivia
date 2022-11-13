@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.pw.toml"
-hash = "320b6a0e812717bf4a1b3e89783dc500393d3bd38be3d96fc5ac310cf3b254a0"
+hash = "e1841acfec62fd13be728e1e6f665b3f4e99ff97704cf458f523686472d37033"
 metafile = true
 
 [[files]]
@@ -52,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric-1.19.2-0.5.0f-758.jar"
 hash = "61da2a7b7685ba284ba1775bd1f6d333ad9564307d00337cf1c19dc08ce4102c"
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
-metafile = true
 
 [[files]]
 file = "mods/dawn.pw.toml"

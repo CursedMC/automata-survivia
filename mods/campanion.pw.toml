@@ -1,13 +1,13 @@
 name = "Campanion"
-filename = "campanion-4.0.3.jar"
+filename = "campanion-4.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y2Rds0HS/versions/6Xl2tU8K/campanion-4.0.3.jar"
+url = "https://cdn.modrinth.com/data/Y2Rds0HS/versions/GtIsq3lV/campanion-4.0.4.jar"
 hash-format = "sha1"
-hash = "e05770428bd61edd83648b6cdf5d94ee1c3b8496"
+hash = "e499e6502ba24cd4be953544900c0421372db615"
 
 [update]
 [update.modrinth]
 mod-id = "Y2Rds0HS"
-version = "6Xl2tU8K"
+version = "GtIsq3lV"
