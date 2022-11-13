@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "012d5c22eeab60c39c7f7d4933ad3dce314b4c50d458affd973d889d4acd553f"
+hash = "ecee4f09af63357ed36d359feddacf5846d4c3910fe811d13d1429a650d927a2"
 metafile = true
 
 [[files]]
@@ -50,6 +50,10 @@ hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-1.19.2-0.5.0f-758.jar"
+hash = "61da2a7b7685ba284ba1775bd1f6d333ad9564307d00337cf1c19dc08ce4102c"
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
@@ -67,11 +71,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
-metafile = true
-
-[[files]]
-file = "mods/ecotones+blankiecon.pw.toml"
-hash = "033d1defaa9408a8a0167b0ba6f0643598e4bcf6ef45c39c2e9f9a52fd2c0850"
 metafile = true
 
 [[files]]
@@ -111,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "9d7472cb1465125ff5312870eb16fc786422e1a19507a84d993602183940377b"
+hash = "554f2fcd8f177e5286174729a0e18ce88f234c59c62761bf26c26bf46853c9de"
 metafile = true
 
 [[files]]
@@ -171,13 +170,17 @@ metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "b07aad3095c15a09447c7ed156f66d89af6d834e2fe93011a4a883634f245350"
+hash = "60d2f12acb3e77b65645179ef7aded52feb3436e9f21a9f5ff0a4de957c394a3"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
+
+[[files]]
+file = "mods/phonos-0.3+1.19.2-SNAPSHOT.jar"
+hash = "caa8c159ca3cac821b998aba154610d58579879e2b0ea25ff8a18d81cb56c2e2"
 
 [[files]]
 file = "mods/phosphor.pw.toml"
