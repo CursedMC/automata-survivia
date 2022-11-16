@@ -174,8 +174,8 @@ hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
 
 [[files]]
-file = "mods/phonos-0.3+1.19.2-SNAPSHOT.jar"
-hash = "caa8c159ca3cac821b998aba154610d58579879e2b0ea25ff8a18d81cb56c2e2"
+file = "mods/phonos-0.3.0+1.19.2-SNAPSHOT.jar"
+hash = "1ee6f939ed5bced418613930056676ca1c68b4eda1b88f098d7106e937519670"
 
 [[files]]
 file = "mods/phosphor.pw.toml"
