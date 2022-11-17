@@ -50,8 +50,9 @@ hash = "731ca7e4b551386efbe40e01ed518778d62db30c0ca8cceab8bebf7f6dff326b"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-1.19.2-0.5.0f-758.jar"
-hash = "61da2a7b7685ba284ba1775bd1f6d333ad9564307d00337cf1c19dc08ce4102c"
+file = "mods/create.pw.toml"
+hash = "aff4e823de8c76d65c30a411cc0a83f518b61a0745f249dfbca4b41dff3b6005"
+metafile = true
 
 [[files]]
 file = "mods/dawn.pw.toml"
@@ -81,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "0395722100397e394dfddec723017c1ea18433f371250f80dae911b4e1c8b0d9"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "da067d2511a56cb765093222bf2dac16c9e9a739d4157fa6876a0bb7dbd1b43e"
 metafile = true
 
 [[files]]

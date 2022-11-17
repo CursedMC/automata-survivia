@@ -1,0 +1,8 @@
+name = "Create"
+filename = "create-fabric-1.19.2-0.5.0f-765.jar"
+side = "both"
+
+[download]
+url = "https://mvn.devos.one/snapshots/com/simibubi/create/create-fabric-1.19.2/0.5.0f-765/create-fabric-1.19.2-0.5.0f-765.jar"
+hash-format = "sha1"
+hash = "9a86a79574efe6d503f7c5ac5c8fa13fc010fc7e"
