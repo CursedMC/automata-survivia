@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/campanion.pw.toml"
-hash = "e1841acfec62fd13be728e1e6f665b3f4e99ff97704cf458f523686472d37033"
+hash = "332915d821b86cf41246d7f541bdc976c9582843b986ddee8f2c98748e6ba076"
 metafile = true
 
 [[files]]
@@ -56,6 +56,11 @@ hash = "61da2a7b7685ba284ba1775bd1f6d333ad9564307d00337cf1c19dc08ce4102c"
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
+file = "mods/drogtor.pw.toml"
+hash = "6aac65adbbc8fba3a165b7207758ce133ff294dc1a0c111b66d22ca3362c310c"
 metafile = true
 
 [[files]]
@@ -84,8 +89,18 @@ hash = "6202bec31ee612b0507a36de55705c0e87a1562471241b20e00ff7a43cfdb70b"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5e0fb026c7bfa446e3398b6297ff4a7223f8b423a829a8543d78174b83063edf"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
 metafile = true
 
 [[files]]
@@ -100,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "72b059dffccb1fad957b17f14aa7d36e744bff219f1a72c23ee5bd20390e86a8"
+hash = "ea6b420942912e9f5c7297688fa97238dcd5cf97df1d97f06754959f9f761867"
 metafile = true
 
 [[files]]
@@ -126,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
@@ -194,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "47b79f18581c1783f795640a8aafb0a4de4efd0f108bbf02f04209589e41af02"
+hash = "04506b094026b5cb0e23636f4c60eb8e200d057ed6710e2b4cc615f7806aaded"
 metafile = true
 
 [[files]]
@@ -214,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
+hash = "e31f409ab01c4df8b9b678cb533722b852c38d1563f6ead0ef40f282b17c45ff"
 metafile = true
 
 [[files]]
@@ -230,6 +250,16 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "26b3e4ca90196024b0cdc02fb3591af480e03bde037ffb3e800499dc2c45167e"
+metafile = true
+
+[[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "53bfdf1e3c3dd91d5bc972f2d2f3972c032b7461e4ae7699fbc2e5e6c3ac74b6"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "f7956a5291dde66560c401ff4417c254d6c8f0f318d1df502cf23e34f9664894"
 metafile = true
 
 [[files]]
@@ -254,5 +284,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "092db5728e799ee6532cfa6ec0fa108093ba10831d38167f9e03c4b6a8ac19d1"
+hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
 metafile = true
