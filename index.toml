@@ -180,6 +180,11 @@ hash = "a05f767d84c28e6a8e392b1bde67ebebd366ebc5c899519dc7617226c9b455f6"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true

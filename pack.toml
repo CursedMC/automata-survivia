@@ -1,12 +1,12 @@
 name = "Automata Survivia"
 author = "Sylv (SylvKT)"
-version = "0.4.0-pre.1+1.19.2"
+version = "0.4.0-pre.2+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b15119a3f78f0e3cabbfe85a108107e7ef338e955a04dedd84aa127070fd87be"
+hash = "25d9f6387feeb665a42161f4c56a0acc840f34e9541d32c1acdc34da4d41acb5"
 
 [versions]
 minecraft = "1.19.2"
